@@ -1,0 +1,20 @@
+.btn {
+    background: $purple;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.253);
+    cursor: pointer;
+}
+
+.btn:active {
+    background-color: $purple_dark;
+}
+
+.clear {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
