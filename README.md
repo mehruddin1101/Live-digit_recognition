@@ -1,9 +1,9 @@
 # Live-digit_recognition
 
-# cretae vistual enviroment 
+# Create virtual environment 
  python3 -m venv myenv   
 
-# Activate the enviroment  for mac
+# Activate the environment  for mac
  source myenv/bin/activate  
 
 # install the dependencies 
